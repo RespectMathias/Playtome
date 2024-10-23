@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "Playtome", "Playtome\Playtome.phpproj", "{5BD915F2-564B-4F18-B537-D0F3BA678A69}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{5CA87372-8EF5-4240-9E39-96C34BB59872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BD915F2-564B-4F18-B537-D0F3BA678A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD915F2-564B-4F18-B537-D0F3BA678A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD915F2-564B-4F18-B537-D0F3BA678A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD915F2-564B-4F18-B537-D0F3BA678A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA87372-8EF5-4240-9E39-96C34BB59872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA87372-8EF5-4240-9E39-96C34BB59872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA87372-8EF5-4240-9E39-96C34BB59872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA87372-8EF5-4240-9E39-96C34BB59872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2884A1A3-3D9B-4DBB-B221-E2DCCDFB621E}
+	EndGlobalSection
+EndGlobal
